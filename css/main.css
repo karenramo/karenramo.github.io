@@ -1,0 +1,26 @@
+*,m{
+    background-color: rgb(192, 252, 255);
+}
+
+p, li, title,h3,h5{
+    color:rgb(13, 97, 171);
+}
+.imagen {
+    padding: 10px; border: 2px solid rgb(7, 197, 255);
+    width: 306px;
+    height: 412px;
+    
+  }
+  .imagen:hover {
+    filter: grayscale(80%);
+  }
+html{
+    scroll-behavior: smooth;
+}
+.subtitle{
+    color: rgb(104, 189, 156);
+    font-weight: blod;
+}
+.programming-languages i{
+    font-size: 7em;
+}
